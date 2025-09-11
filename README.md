@@ -84,7 +84,7 @@
 
 ### 🚙 **Stark OCR Neural Network**
 - License plate recognition system for multiple countries
-- Handling complex edge cases (O vs 0 disambiguation)
+- Handling complex edge cases
 - Fine-tuning for country-specific syntaxes
 
 ### 🏥 **Healthcare Predictive Analytics**
